@@ -2,4 +2,13 @@
 
 ## For Python
 
-###### Install packages with pip: pip install -r requirements.txt
+#### Setup steps
+
+- install requirements
+- run uvicorn
+
+### Install requirements
+
+```
+pip install -r reuirements.txt
+```
