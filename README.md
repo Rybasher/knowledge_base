@@ -2,4 +2,4 @@
 
 ## For Python
 
-###### Install packages with pip: -r requirements.txt
+###### Install packages with pip: pip install -r requirements.txt
