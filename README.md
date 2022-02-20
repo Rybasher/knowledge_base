@@ -12,3 +12,9 @@
 ```
 pip install -r requirements.txt
 ```
+
+### Run uvicorn
+
+```
+uvicorn main:app --reload
+```
